@@ -1,0 +1,36 @@
+name,lastname,office,user_type,admission_day
+Lucas,Brace,Developer,root,12/03/2021
+João,Silva,Developer,root,08/14/2022
+Maria,Souza,Developer,root,07/25/2021
+Pedro,Ribeiro,Developer,root,01/17/2023
+Carlos,Fernandes,Analyst,sudo,06/05/2022
+Mariana,Almeida,Analyst,sudo,10/18/2021
+Rafael,Martins,Analyst,sudo,09/08/2022
+Laura,Oliveira,Analyst,sudo,05/19/2021
+Luciana,Gomes,Analyst,sudo,12/26/2022
+Bruno,Santos,Analyst,sudo,03/09/2023
+Fernanda,Coelho,Analyst,sudo,11/10/2020
+Isabela,Lima,Analyst,sudo,07/21/2022
+Júlio,Cardoso,Support,read and execute,09/27/2021
+Renata,Pereira,Support,read and execute,04/02/2022
+Roberto,Tavares,Support,read and execute,02/14/2023
+Gustavo,Mendes,Support,read and execute,08/29/2022
+Fábio,Castro,Support,read and execute,01/12/2023
+Patrícia,Santana,Support,read and execute,03/25/2021
+Tatiana,Ramos,Support,read and execute,05/09/2022
+Andréa,Martinez,Support,read and execute,11/30/2020
+Luis,Silveira,Support,read and execute,07/15/2021
+Carlos,Barbosa,Support,read and execute,10/06/2022
+Juliana,Machado,Support,read and execute,09/17/2021
+Renato,Figueiredo,Support,read and execute,06/28/2022
+Aline,Ferreira,Support,read and execute,03/13/2023
+Nathalia,Monteiro,Support,read and execute,01/27/2021
+Fernando,Gonçalves,Support,read and execute,08/08/2022
+Marcos,Araújo,Support,read and execute,10/21/2021
+Camila,Silva,Support,read and execute,04/03/2023
+Ricardo,Santos,Support,read and execute,12/09/2020
+Patrícia,Oliveira,Support,read and execute,06/22/2022
+Leonardo,Gomes,Support,read and execute,02/03/2021
+Mariana,Santos,Support,read and execute,09/15/2022
+Gustavo,Almeida,Support,read and execute,01/26/2023
+Gustavo,Almeida,Support,read and execute,01/26/2023
